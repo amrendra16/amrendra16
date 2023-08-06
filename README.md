@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amrendra Chaudhary</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <h2>![Web developement]</h2>
-<img align="center" alt="coding" width="800" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+<img align="center" alt="coding" width="600" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrendra16&label=Profile%20views&color=0e75b6&style=flat" alt="amrendra16" /> </p>
 
